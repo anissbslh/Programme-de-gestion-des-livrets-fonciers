@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1641657236 source:d:\esi c projects\2cp\tp1s1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LOVC.h"
+	"TOF.h"
+	"LOF.h"
+
+1641657281 d:\esi c projects\2cp\tp1s1\lovc.h
+
+1641653437 d:\esi c projects\2cp\tp1s1\tof.h
+	"LOVC.h"
+
+1641656853 d:\esi c projects\2cp\tp1s1\lof.h
+	"TOF.h"
+
